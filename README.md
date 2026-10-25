@@ -77,8 +77,8 @@ sudo apt install -y \
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/Neontoshi/neonwha.git
-cd neonwha
+git clone https://github.com/Neontoshi/neon-wha.git
+cd neon-wha
 ```
 
 **2. Run in development mode**
