@@ -1,0 +1,5 @@
+{
+  "identifier": "settings-window",
+  "windows": ["settings"],
+  "permissions": ["core:default", "allow-get-config", "allow-save-config", "allow-open-settings"]
+}

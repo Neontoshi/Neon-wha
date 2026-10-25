@@ -1,0 +1,8 @@
+/* Example user theme */
+body {
+    /* Add a neon glow to the main app border */
+    box-shadow: inset 0 0 20px #25d366 !important;
+}
+
+/* Force dark mode styles (example) */
+/* .app-wrapper-web { background-color: #111b21 !important; } */
